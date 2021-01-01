@@ -6,7 +6,7 @@
 :snake: Proficient with Python<br>
 :sun_with_face: Interested in AI and Machine Learning<br>
 :city_sunrise: Actively looking for a graduate role in AI/ data science<br>
-:computer: I have a website! <a href="hulleylm.github.io">hulleylm.github.io</a><br>
+:computer: I have a website! <a href="https://hulleylm.github.io/">hulleylm.github.io</a><br>
 :sunrise_over_mountains: Climber, windsurfer and general outdoorsy type<br>
 :blush: She/ her<br>
 :speech_balloon: Say hello! Catch me on <a href="https://www.linkedin.com/in/hulleylm/">linkedIn</a> or by <a href="mailto:hulleylm@gmail.com">email</a><br>
