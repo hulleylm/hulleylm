@@ -3,7 +3,7 @@
 :mortar_board: Final year Computer Science with Year in Industry student<br>
 :bird: University of Liverpool<br>
 :seedling: Currently learning: HTML, CSS, JavaScript, German<br>
-:books: Currently reading: A Little Life Clean - Hanya Yanagihara; Code in Python: Refactor your legacy code base - Mariano Anaya.<br>
+:books: Currently reading: A Little Life - Hanya Yanagihara; Clean Code in Python: Refactor your legacy code base - Mariano Anaya.<br>
 :snake: Proficient with Python<br>
 :sun_with_face: Interested in: AI and Machine Learning<br>
 :city_sunrise: Actively looking for a graduate role in AI/ data science<br>
