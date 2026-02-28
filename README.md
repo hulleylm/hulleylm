@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Laura 
 
 😊 She/ her<br>
-💻 Former Python afficionado transitioning to front end<br>
+💻 Former Python afficionado, currently learning the world of front-end<br>
 🌟 Open to work!<br>
 💬 Say hello! Shoot me an <a href="mailto:hulleylm@gmail.com">email</a><br>
 
